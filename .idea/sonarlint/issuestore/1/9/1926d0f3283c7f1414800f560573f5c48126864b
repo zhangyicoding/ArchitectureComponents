@@ -1,0 +1,4 @@
+
+>squid:S1214""Move constants to a class or enum.(ÚşŠŞ8şğĞ“ğ,
+ksquid:UselessImportCheck"CRemove this unused import 'android.arch.persistence.room.RawQuery'.(¶ôÛt8òÕ“ğ,
+]squid:UselessImportCheck"4Remove this unused import 'io.reactivex.Observable'.(–˜¼8şğĞ“ğ,

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArchitectureComponents.iml" filepath="$PROJECT_DIR$/ArchitectureComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_databinding/app_databinding.iml" filepath="$PROJECT_DIR$/app_databinding/app_databinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_paging/app_paging.iml" filepath="$PROJECT_DIR$/app_paging/app_paging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_paging_rxjava/app_paging_rxjava.iml" filepath="$PROJECT_DIR$/app_paging_rxjava/app_paging_rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_room/app_room.iml" filepath="$PROJECT_DIR$/app_room/app_room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_viewmodel/app_viewmodel.iml" filepath="$PROJECT_DIR$/app_viewmodel/app_viewmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_viewmodel_rxjava/app_viewmodel_rxjava.iml" filepath="$PROJECT_DIR$/app_viewmodel_rxjava/app_viewmodel_rxjava.iml" />
+    </modules>
+  </component>
+</project>

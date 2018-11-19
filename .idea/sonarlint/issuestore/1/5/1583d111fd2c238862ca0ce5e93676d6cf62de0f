@@ -1,0 +1,5 @@
+
+Isquid:S1481"-Remove this unused "account1" local variable.(—Óêî8¡€ÒÅï,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄÜ»ûÿÿÿÿ8¡€ÒÅï,
+wsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(–ŸèÀúÿÿÿÿ8¡€ÒÅï,
+Xsquid:S1854"<Remove this useless assignment to local variable "account1".(—Óêî8¡€ÒÅï,

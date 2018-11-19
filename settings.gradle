@@ -1,0 +1,1 @@
+include ':app_viewmodel', ':app_viewmodel_rxjava', ':app_room', ':app_paging', ':app_paging_rxjava', ':app_databinding'

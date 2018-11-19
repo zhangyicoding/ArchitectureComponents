@@ -1,0 +1,10 @@
+https://blog.csdn.net/user11223344abc/article/details/79364274
+
+// 总体架构介绍
+http://chuckiefan.com/2017/06/07/翻译-安卓架构组件(1)-App架构指导.html
+
+// ViewModel
+https://blog.csdn.net/hubinqiang/article/details/73012352
+
+Lifecycle
+配合Activity/Fragment管理对象生命周期，实现Activity/Fragment和对象的解耦
